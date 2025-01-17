@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922074558420",
+    "project_id": "music-player-cf155",
+    "storage_bucket": "music-player-cf155.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922074558420:android:110ab81feb45df9c8ab041",
+        "android_client_info": {
+          "package_name": "com.example.chor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbuYo7HFvzFI54btD0lUwyFn4K9_SVVqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922074558420:android:e7c4b33a76e553d68ab041",
+        "android_client_info": {
+          "package_name": "com.example.musicapp_trav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbuYo7HFvzFI54btD0lUwyFn4K9_SVVqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
